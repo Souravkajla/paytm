@@ -265,10 +265,12 @@
   #boxbill{
     height:16vh;
     width:80vw;
+    background-color:red;
   }
   #boxbill2{
     height:16vh;
     width:80vw;
+    background-color:red;
   }
   #mobilebox {
     display: none;
