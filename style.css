@@ -270,10 +270,15 @@
     height:16vh;
     width:80vw;
   }
-  
   #mobilebox {
     margin-left:30px;
-    gap:20px;
+    gap:15px;
+  }
+  .topbox{
+    font-size:20px;
+  }
+  .contain{
+    height:;
   }
   .textbox {
     height: 30px;
