@@ -262,23 +262,27 @@
     height: 16vh;
     width: 90vw;
   }
-  #boxbill{
-    height:13vh;
-    width:80vw;
+  #boxbill {
+    height: 13vh;
+    width: 80vw;
+    margin-left: 5vw;
+    box-shadow: 0 0.5px;
   }
-  #boxbill2{
-    height:13vh;
-    width:80vw;
+  #boxbill2 {
+    height: 13vh;
+    width: 80vw;
+    margin-left: 5vw;
+    box-shadow: 0 0.5px;
   }
   #mobilebox {
-    margin-left:2px;
-    gap:15px;
+    margin-left: 2px;
+    gap: 16px;
   }
-  .textbox2{
-    font-size:25px;
+  .textbox2 {
+    font-size: 25px;
   }
-  .mobile{
-    font-size:11px;
+  .mobile {
+    font-size: 11px;
   }
   .textbox {
     height: 30px;
