@@ -272,7 +272,8 @@
   }
   
   #mobilebox {
-    
+    margin-left:30px;
+    gap:20px;
   }
   .textbox {
     height: 30px;
