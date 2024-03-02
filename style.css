@@ -286,6 +286,7 @@
   }
   #mobilebox {
     gap: 10px;
+    margin-left:0;
   }
   .textbox2 {
     font-size: 25px;
