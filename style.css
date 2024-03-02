@@ -268,11 +268,19 @@
     margin-left: 5vw;
     box-shadow: 0 0.5px;
   }
+  #billbox{
+       height: 13vh;
+    width: 80vw;
+  }
   #boxbill2 {
     height: 13vh;
     width: 80vw;
     margin-left: 5vw;
     box-shadow: 0 0.5px;
+  }
+  #billbox{
+       height: 13vh;
+    width: 80vw;
   }
   #mobilebox {
     margin-left: 2px;
