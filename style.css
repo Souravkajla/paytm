@@ -272,6 +272,9 @@
     display: none;
   }
   #billbox2 {
+    background-color:red;
+    width:40vh;
+    height:14vh;
   }
   .textbox {
     height: 30px;
