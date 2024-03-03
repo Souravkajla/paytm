@@ -269,6 +269,9 @@
     height: 16vh;
     width: 90vw;
   }
+  #bill{
+    margin-left:0px;
+  }
   #boxbill {
     height: 16.5vh;
     width: 100vw;
